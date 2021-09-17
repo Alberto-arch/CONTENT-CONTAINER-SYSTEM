@@ -1,0 +1,29 @@
+Open source Visual Studio Code 
+
+Microsoft continues to amaze the world with its new philosophy of opening up to the open souce (open source) and last April announced the launch of Visual Studio Code . A open source editor simple, lightweight, cross-platform for Windows, OSX, and Linux.
+
+It has a powerful code editor including syntax highlighting, code formatting, snippet embedding and we find it in many languages.
+
+It also offers the option IntelliSense that suggests sentences as we write and refactoring . These two plugins are not for all the languages ​​it supports. It also allows integration with repositories like Git and package managers like Nuget from the IDE itself.
+
+For web technologies like HTML, CSS, Less, Sass and JSON it includes various tools that make web development simpler.
+
+Something very important when developing applications of whatever technology is debugging. The first version of Visual Studio Code you only have this system for Node.js and they are implementing it for ASP.NET 5. In the future it will be possible to debug in more languages.
+
+In the following table you can see all the languages ​​that it supports as well as the characteristics that Visual Studio Code brings to each one of them. 
+
+Characteristics 	
+
+Syntax color, auto brace lock 
+Syntax color, auto brace closing, interactive code color, statement grouping
+Syntax color, auto brace closing, interactive code color, statement grouping, refactoring, find all references 
+
+Idioms
+
+Batch, C++, Closure, Coffee Script, DockerFile, F#, Go, Jade, 
+Java, HandleBars, Ini, Lua, Makefile, Markdown, Objective-C, Perl, 
+PHP, PowerShell, Python, R, Razor, Ruby, SQL, Visual Basic, XML
+
+CSS, HTML, JavaScript, JSON, Less, Sass
+
+C#, TypeScript 
